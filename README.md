@@ -2,7 +2,7 @@
 ## Project: NLP For Finance
 <br />
 
-### I completed this project during 2022 summer holidays at [ Inspirit AI ](https://www.inspiritai.com/).
+### I completed this project during 2022 summer break at [ Inspirit AI ](https://www.inspiritai.com/).
 <br />
 
 The problem we were trying to solve is to predict sentiment by analyzing sentence coming out from financial news outlet. Sentiment were labeled as:
