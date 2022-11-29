@@ -2,7 +2,7 @@
 ## Project: NLP For Finance
 <br />
 
-### I completed this project during 2022 summer holidays at [ Inspirit AI ](https://www.inspiritai.com/).
+### I completed this project during 2022 summer break at [ Inspirit AI ](https://www.inspiritai.com/).
 <br />
 
 I used Bidirectional Encoder Representations from Transformers (BERT, pre-trained NLP model) model for sentiment analysis to predict whether the stock price will go up or down. 
