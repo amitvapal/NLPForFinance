@@ -22,11 +22,7 @@ Sentiments were labeled as:
 Then I used “BertForSequenceClassification” from transformers package from Hugging Face which gave PyTorch interface for working with BERT. This is the normal BERT model with an added single linear layer on top for classification that we will use as a sentence classifier. As we feed input data, the entire pre-trained BERT model and the additional untrained classification layer is trained on our specific task. 
 
 
-### Certificate of completion
-<img src="amitvaPal-2022-inspiritAI-certificate.jpg">
 
-<br />
-<br />
 
 ***
 Reference:
